@@ -38,6 +38,7 @@ beautifully.
  - 1 cup chicken stock
  - 1 ts paprika
  - &frac12; ts cayanne
+ - 1 lime
 
 ## Steps
 
@@ -50,4 +51,5 @@ beautifully.
     to taste.
  6. Bring to a boil and then stir and cover.
  7. Bake in oven until rice is tender, about 25 minutes.
- 8. Uncover and fluff the rice, let stand for 5 minutes before serving.
+ 8. Uncover and fluff the rice while adding the juice from 1 lime. Let stand for
+    5 minutes before serving.
