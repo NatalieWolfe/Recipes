@@ -34,7 +34,7 @@ beautifully.
  - 2 serrano peppers, chopped and seeded
  - 2 ts hot sauce
  - 1 cup short-grain rice (or long if you prefer)
- - 1 can chopped tomatoes (including juice)
+ - 1 14oz can chopped tomatoes (including juice)
  - 1 cup chicken stock
  - 1 ts paprika
  - &frac12; ts cayanne
