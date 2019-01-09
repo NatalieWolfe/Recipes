@@ -18,8 +18,9 @@ usually pull them into the fridge the night before.
 
 ## Hardware
 
- - Glass or porcelain casserole dish (to marinade in)
+ - Glass or porcelain casserole dish (to marinade in, optional)
  - Large frying pan
+ - Small sauce pan
 
  ## Ingredients
 
@@ -35,10 +36,10 @@ usually pull them into the fridge the night before.
 
  1. In a small mixing bowl add lemon zest, lemon juice with pulp, mashed garlic,
     olive oil, and mustard. Whisk until combined.
- 2. In glass or porcelain dish pour marinade over chicken.
+ 2. In glass or porcelain dish (or plastic zip-bag) pour marinade over chicken.
  3. Marinade chicken for 1 hour.
  4. Remove chicken from marinade, reserving marinade.
- 5. Pour marinade into a small sauce pan and simmer, stirring occasionally until
+ 5. Pour marinade into a small sauce pan and simmer over low heat, stirring occasionally until
     thick.
  6. Heat butter or oil in a large frying pan over medium heat.
  7. Add the chicken and brown both sides. Do not crowd the pan, use multiple
