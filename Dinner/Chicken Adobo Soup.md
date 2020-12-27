@@ -46,8 +46,8 @@ Makes ~4 quarts of soup.
     heat until carmelized to your liking.
  4. Reduce heat to low, add garlic, spices, and ground black pepper. Stir
     together and cook gently until fragrant (about 1 minute).
- 5. Add beans, tomatoes, chipotles, adobo sauce, and chicken stock. Bring heat
-    back to high and stir. Scrape the bottom of the pan with a wooden spatula to
-    disolve the fond into the broth.
+ 5. Add beans, tomatoes, chipotles, adobo sauce, chicken stock, and cooked
+    chicken. Bring heat back to high and stir. Scrape the bottom of the pan
+    with a wooden spatula to disolve the fond into the broth.
  6. Bring soup to a boil, then reduce heat back to a simmer. Let simmer while
     covered for at least 1 hour.
